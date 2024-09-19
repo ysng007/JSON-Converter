@@ -1,0 +1,12 @@
+{
+  "使用指南": "User Guide",
+  "功能演示 & 反馈请查阅": "Feature demonstration & feedback, please refer to",
+  "将多维表格转换为可用的 JSON 格式": "Convert a multidimensional table into a usable JSON format.",
+  "选择数据表": "Select Table",
+  "选择 Key 列": "Select a column as Key",
+  "选择 Value 列": "Select a column as Value",
+  "转成 JSON": "Concert to JSON",
+  "下载": "Download",
+  "结果": "Result",
+  "请选择": "Please select"
+}
